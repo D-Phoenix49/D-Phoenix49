@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deviyani
-- 👀 I’m interested in Full stack development,Cryptography,Neural Networks
+- 👀 I’m interested in Full stack development,Strong at Python and Node.js.
 - 🌱 I’m currently pursuing masters in computer application
 - 💞 Passionate about starting an Ad-agency
 - 📫 Email - deviyani492@gmail.com
